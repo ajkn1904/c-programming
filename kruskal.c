@@ -2,7 +2,7 @@
 int graph[5][5];
 int result[5][5];
 
-int kruskal(){
+int kruskal_find_minimum(){
 int min = 10000;
 int resulti, resultj;
 for(int i=0; i<5; i++){
@@ -32,9 +32,9 @@ graph[3][2] = 8;
 graph[1][4] = 2;
 
 
-kruskal();
-kruskal();
-kruskal();
+kruskal_find_minimum();
+kruskal_find_minimum();
+kruskal_find_minimum();
 
 for(int i=1; i < 5; i++){
     for(int j=1; j < 5; j++){
