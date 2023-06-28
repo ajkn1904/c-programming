@@ -3,7 +3,7 @@
         {
             "type": "cppbuild",
             "label": "C/C++: gcc.exe build active file",
-            "command": "E:/CSE/C Programing/c-programming/CodeBlocks/MinGW/bin/gcc.exe",
+            "command": "E:/c-programming/CodeBlocks/MinGW/bin/gcc.exe",
             "args": [
                 "-fdiagnostics-color=always",
                 "-g",
@@ -13,7 +13,7 @@
                 ""
             ],
             "options": {
-                "cwd": "E:/CSE/C Programing/c-programming/CodeBlocks/MinGW/bin"
+                "cwd": "E:/c-programming/CodeBlocks/MinGW/bin"
             },
             "problemMatcher": [
                 "$gcc"

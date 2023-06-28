@@ -1,5 +1,5 @@
 #include<stdio.h>
-main()
+int main()
 {
     int a,b,sum,sub,mul,div;
     float avg1, avg2,avg3,avg4;

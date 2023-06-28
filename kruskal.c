@@ -26,7 +26,7 @@ for(int i=0; i < 5; i++){
     }
 }
 graph[1][2] = 10;
-graph[2][4] =5 ;
+graph[2][4] = 5;
 graph[4][3] = 11;
 graph[3][2] = 8;
 graph[1][4] = 2;
